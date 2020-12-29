@@ -1,0 +1,12 @@
+{
+    "name": "administrator/good-addons",
+    "description": "goods-addons",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "尹浩龙",
+            "email": "162202343@qq.com"
+        }
+    ],
+    "require": {}
+}
